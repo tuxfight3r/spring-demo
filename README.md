@@ -2,7 +2,6 @@
 
 This is a spring boot web demo with jsp and external properties file.
 it also has spring boot actuators enabled so gives you health status.
-
 Its a demo app which displays the server name/ server ip / server port
 of the server in which is deployed.
 
